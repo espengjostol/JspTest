@@ -1,6 +1,6 @@
 # JspTest
 
-"Hello world" app with [JavaServer_Pages](https://en.wikipedia.org/wiki/JavaServer_Pages) (JSP), embedded Tomcat, Java 11.
+"Hello world" app with [JavaServer Pages](https://en.wikipedia.org/wiki/JavaServer_Pages) (JSP), embedded [Tomcat](http://tomcat.apache.org/) 8, Java 11.
 
 ### Usage
 
